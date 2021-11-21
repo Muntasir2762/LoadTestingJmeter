@@ -1,0 +1,1 @@
+jmeter -n -t "E:\SQA and Cyber Security\Jmeter\apache-jmeter-5.4.1\apache-jmeter-5.4.1\bin\6Barchive.jmx" -l "E:\SQA and Cyber Security\Jmeter\apache-jmeter-5.4.1\apache-jmeter-5.4.1\bin\logs\log1.csv" -e -o "E:\SQA and Cyber Security\Jmeter\apache-jmeter-5.4.1\apache-jmeter-5.4.1\bin\html\
